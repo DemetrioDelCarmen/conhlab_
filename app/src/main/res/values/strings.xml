@@ -25,4 +25,15 @@
     <string name="nombre">Lorem Ipsum</string>
     <string name="apellido">Dolor Sit Ammet</string>
     <string name="correo">lorencosecteur@lorem.ipsum</string>
+    <string name="resumen_quincenal">Resumen quincenal</string>
+    <string name="tv_numero_dias_laborados">10</string>
+    <string name="txt_dias_laborados">Días laborados</string>
+    <string name="txt_retardos">Retardos</string>
+    <string name="tv_numero_fatlas">1</string>
+    <string name="txt_fatlas">Faltas</string>
+    
+    
+    <string name="tv_numero_justificadas">0</string>
+    <string name="txt_justificadas">Justificadas</string>
+
 </resources>
