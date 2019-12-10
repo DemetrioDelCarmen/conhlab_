@@ -4,6 +4,15 @@
     tools:showIn="navigation_view">
 
     <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/nav_informacion_personal"
+            android:icon="@drawable/ic_person"
+            android:title="Información personal" />
+
+
         <item
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_home"
@@ -14,10 +23,12 @@
             android:title="Histórico" />
 
 
+
         <item
             android:id="@+id/nav_horario"
             android:icon="@drawable/ic_horario"
             android:title="Horario" />
+
 
     </group>
 

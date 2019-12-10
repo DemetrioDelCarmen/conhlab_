@@ -20,20 +20,53 @@
     <string name="txt_nombre">Nombre</string>
     <string name="txt_apellido">Apellido</string>
     <string name="txt_correo">Correo electrónico</string>
+    <string name="txt_exportar_información">Exportar información</string>
 
 
     <string name="nombre">Lorem Ipsum</string>
     <string name="apellido">Dolor Sit Ammet</string>
     <string name="correo">lorencosecteur@lorem.ipsum</string>
-    <string name="resumen_quincenal">Resumen quincenal</string>
+    <string name="resumen_semanal">Resumen semanal</string>
+    <string name="resumen_mensual">Resumen mensual</string>
+    <string name="txt_resumen">Resumen </string>
     <string name="tv_numero_dias_laborados">10</string>
     <string name="txt_dias_laborados">Días laborados</string>
     <string name="txt_retardos">Retardos</string>
     <string name="tv_numero_fatlas">1</string>
     <string name="txt_fatlas">Faltas</string>
-    
-    
+
+
     <string name="tv_numero_justificadas">0</string>
     <string name="txt_justificadas">Justificadas</string>
+    <string name="txt_alert_checar">¿Está seguro de que desea checar?</string>
+    <string name="txt_aceptar">Aceptar</string>
+    <string name="txt_cancelar">Cancelar</string>
+    <string name="title_confirmar_chequeo">¿Checar entrada?</string>
+    <string name="message_confirmar_chequeo">Esta acción no se puede revertir</string>
+    <string name="txt_confirmacion_chequeo">Se ha registrado su entrada</string>
+    <string name="txt_negacion_chequeo">Ha decidido no registrar su entrada</string>
+    <string name="tv_tipo_consulta">Tipo de consulta</string>
+    <string name="txt_semanal">Semanal</string>
+    <string name="txt_mensual">Mensual</string>
+
+
+    <string name="hint_nombre">Ej. Bernardo</string>
+    <string name="hint_apellido">Ej. Huicochea</string>
+    <string name="hint_correo">Ej. bernardohuicochea@utez.edu.mx</string>
+    <string name="nav_personal_data">Información personal</string>
+    <string name="txt_registrar_horario">Registrar día</string>
+    <string name="ej_horario_registro_entrada"> Ej. 13:00</string>
+    <string name="ej_horario_registro_salida"> Ej. 19:00</string>
+    <string name="tv_hora_inicio">Hora de inicio</string>
+    <string name="tv_hora_fin">Hora de salida</string>
+
+
+    <string name="btn_text_registrar_dia">Registrar día</string>
+    <string name="txt_dia">Día</string>
+    <string name="txt_rc_hora_inicio">Hora inicio</string>
+    <string name="txt_rc_txt_hora_fin">Hora fin</string>
+
+    <string name="txt_agregar_dia">Agregar día</string>
+
 
 </resources>
